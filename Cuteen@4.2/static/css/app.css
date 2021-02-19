@@ -4,7 +4,7 @@
 }
 @font-face {
 	font-family: 'zhanku';
-	src: url('../font/zpix.woff'); 
+	src: url('../font/zk.woff2'); 
    }
 body{
     font-family: var(--bs-font-sans-serif);
