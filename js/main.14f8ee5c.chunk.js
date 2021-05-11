@@ -133,7 +133,7 @@
             var me = r(15),
                 ge = r(148),
                 fe = r(143),
-                xe = r.p + "https://cdn.jsdelivr.net/gh/Taohua-town/Cuteen-CDN/media/logo.png",
+                xe = r.p + "logo.png",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
