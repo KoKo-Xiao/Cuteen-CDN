@@ -133,7 +133,7 @@
             var me = r(15),
                 ge = r(148),
                 fe = r(143),
-                xe = r.p + "img.koko.press/images/2021/02/24/logo1.png",
+                xe = r.p + "https://cdn.jsdelivr.net/gh/Taohua-town/Cuteen-CDN/media/logo.png",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
@@ -209,7 +209,7 @@
                         var r = e.installing;
                         null != r && (r.onstatechange = function() { "installed" === r.state && (navigator.serviceWorker.controller ? (console.log("New content is available and will be used when all tabs for this page are closed. See https://cra.link/PWA."), t && t.onUpdate && t.onUpdate(e)) : (console.log("Content is cached for offline use."), t && t.onSuccess && t.onSuccess(e))) })
                     }
-                })).catch((function(e) { console.error("Error during service worker registration:", e) }))
+                })).catch((function(e) ))
             }
             var Ge = function(e) {
                 e && e instanceof Function && r.e(3).then(r.bind(null, 155)).then((function(t) {
