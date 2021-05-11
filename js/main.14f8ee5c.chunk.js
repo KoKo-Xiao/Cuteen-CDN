@@ -133,7 +133,7 @@
             var me = r(15),
                 ge = r(148),
                 fe = r(143),
-                xe = r.p + "https://img.koko.press/images/2021/02/24/logo1.png",
+                xe = r.p + "img.koko.press/images/2021/02/24/logo1.png",
                 pe = r(38),
                 Oe = (r(110), "#e0e0e0"),
                 ve = "#cccccc",
